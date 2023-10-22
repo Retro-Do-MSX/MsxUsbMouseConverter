@@ -37,35 +37,33 @@ MSX USB Mouse converter
 - ケース (オプション) 上下組 x1
   ※お届けする商品は画像のものと異なる場合があります
 
-  ![parts](https://user-images.githubusercontent.com/102343209/205546597-d44bfb49-fa0e-4165-a02f-bfb4579cec4f.JPG)
+  ![parts](Pictures/IMG_3112.JPG)
   ![case](https://user-images.githubusercontent.com/102343209/205643322-3df91690-9fbb-4a0e-92fd-873f9b03fb1b.JPG) 
 
 ## 組立方法
 - D-SUB 9ピンコントローラ用ケーブルの先端を剥き予備ハンダしておきます
 
-  ![cable](https://user-images.githubusercontent.com/102343209/205546666-397d7a23-14c2-4252-88ee-3d656c710edc.JPG)
+  ![cable](Pictures/cable.JPG)
 
 - 変換基板のシルクに書かれた色に合わせて9本のケーブルをハンダ付けします
 
-![1st step](https://user-images.githubusercontent.com/102343209/205546684-318f367e-b6fe-4d5a-b3e4-3a6ba4c40f83.JPG)
+![1st step](Pictures/IMG_3113.JPG)
 
 - 部品の足などを使用してケーブルの抜け止めをハンダ付けします（キットには含まれません）
   - シルクの線を目安に黒い被膜がマイコン基板に干渉しないようにします
 
-![2nd step](https://user-images.githubusercontent.com/102343209/205546684-318f367e-b6fe-4d5a-b3e4-3a6ba4c40f83.JPG)
+![2nd step](Pictures/IMG_3114.JPG)
 
 - 抵抗2本を取り付けます
 
-![3rd step](https://user-images.githubusercontent.com/102343209/205546717-61734072-591b-4666-b804-02b6615c139b.JPG)
+![3rd step](Pictures/IMG_3115.JPG)
 
 - USBコネクタとマイコン基板を取り付けます
 
-![4th step](https://user-images.githubusercontent.com/102343209/205546774-c15c048b-efa1-4cba-a366-791440be34b2.JPG)
+![4th step](Pictures/IMG_3116.JPG)
 
 - 裏面に飛び出したピンヘッダやコネクタの足はできるだけ短くカットします
   - ケースに入れない場合は絶縁テープなどを貼りショートしないようにします
-
-![4th step](https://user-images.githubusercontent.com/102343209/205546794-ef5e0fdd-d42a-489d-af73-e1b310652ef6.JPG)
 
 - ケースに入れます
 
