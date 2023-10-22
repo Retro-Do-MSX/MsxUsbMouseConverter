@@ -8,7 +8,7 @@ MSX USB Mouse converter
 - ケースは購入可能です、3Dプリンター用モデルも無料提供しています
 - サポートはありません
 
-![converter1](https://user-images.githubusercontent.com/102343209/205643273-2f765905-05a0-4b39-850b-36ef840f94fa.JPG)
+![converter1](Pictures/IMG_3204.JPG)
 
 ## 動作
 - 本機はMSX用マウスモードのみで動作します。モード切替はありません
@@ -38,7 +38,7 @@ MSX USB Mouse converter
   ※お届けする商品は画像のものと異なる場合があります
 
   ![parts](Pictures/IMG_3112.JPG)
-  ![case](https://user-images.githubusercontent.com/102343209/205643322-3df91690-9fbb-4a0e-92fd-873f9b03fb1b.JPG) 
+  ![case](Pictures/IMG_3201.JPG) 
 
 ## 組立方法
 - D-SUB 9ピンコントローラ用ケーブルの先端を剥き予備ハンダしておきます
@@ -67,8 +67,9 @@ MSX USB Mouse converter
 
 - ケースに入れます
 
-![converter2](https://user-images.githubusercontent.com/102343209/205643459-5cd6bada-82fb-43eb-bec8-753ca8434380.JPG)
+![converter2](Pictures/IMG_3205.JPG)
 
 ## ケースのプリント用データ
 
-https://github.com/Retro-Do-MSX/MsxPs2MouseConverter/blob/9a62aeebc9353688a7a67238b351070e19405555/Models/MSXPs2MouseConverterCase.stl
+https://github.com/Retro-Do-MSX/MsxUsbMouseConverter/blob/main/Models/Bottom%20MSX%20USB%20Mouse%20Converter%20case.stl
+https://github.com/Retro-Do-MSX/MsxUsbMouseConverter/blob/main/Models/Upper%20MSX%20USB%20Mouse%20Converter%20case.stl
